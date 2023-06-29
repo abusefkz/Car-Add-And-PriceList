@@ -1,0 +1,141 @@
+{
+  "categories": [
+    {
+      "name": "Bmw",
+      "id": 1
+    },
+    {
+      "name": "Mercedes",
+      "id": 2
+    },
+    {
+      "name": "Volvo",
+      "id": 3
+    },
+    {
+      "name": "Renault",
+      "id": 4
+    },
+    {
+      "name": "Porsche",
+      "id": 5
+    },
+    {
+      "name": "Fiat",
+      "id": 6
+    },
+    {
+      "name": "Wolkswagen",
+      "id": 7
+    }
+  ],
+  "carsColor": [
+    {
+      "id": 1,
+      "name": "Siyah"
+    },
+    {
+      "id": 2,
+      "name": "Beyaz"
+    },
+    {
+      "id": 3,
+      "name": "Kırmızı"
+    },
+    {
+      "id": 4,
+      "name": "Mavi"
+    },
+    {
+      "id": 5,
+      "name": "Gri"
+    },
+    {
+      "id": 6,
+      "name": "Turuncu"
+    },
+    {
+      "id": 7,
+      "name": "Su Yeşili"
+    }
+  ],
+  "carList": [
+    {
+      "categoryId": "Mercedes",
+      "carModel": "CLA",
+      "carYear": "2020",
+      "carKm": "10000",
+      "carİmg": "https://i0.shbdn.com/photos/20/62/64/x5_1096206261eh0.jpg",
+      "carColor": "Kırmızı",
+      "carPrice": 1500000,
+      "carText": "Hiçbir Sorunu Sıkıntısı Yoktur",
+      "id": 11
+    },
+    {
+      "categoryId": "Volvo",
+      "carModel": "S90",
+      "carYear": "2017",
+      "carKm": 145000,
+      "carİmg": "https://i0.shbdn.com/photos/02/10/18/x5_1081021018k1b.jpg",
+      "carColor": "Siyah",
+      "carPrice": 1250000,
+      "carText": "Ön Kaput Değişik Harici Hatasız ",
+      "id": 12
+    },
+    {
+      "categoryId": "Fiat",
+      "carModel": "EGEA",
+      "carYear": "2015",
+      "carKm": 300000,
+      "carİmg": "https://i0.shbdn.com/photos/30/21/66/x5_1053302166zaw.jpg",
+      "carColor": "Beyaz",
+      "carPrice": 570000,
+      "carText": "3 Lokal boya var 15.000 bin Tramer Kaydı Bulunmaktadır",
+      "id": 13
+    },
+    {
+      "categoryId": "Wolkswagen",
+      "carModel": "CADDY",
+      "carYear": "2015",
+      "carKm": 180000,
+      "carİmg": "https://i0.shbdn.com/photos/87/56/82/x5_1107875682z8c.jpg",
+      "carColor": "Beyaz",
+      "carPrice": 800000,
+      "carText": "Sağ Arka Kapıda Çizikler Mevcuttur Başka Bir Sıkıntısı Yok",
+      "id": 14
+    },
+    {
+      "categoryId": "Renault",
+      "carModel": "Fluence",
+      "carYear": "2011",
+      "carKm": 350000,
+      "carİmg": "https://i0.shbdn.com/photos/23/48/73/x5_1069234873iic.jpg",
+      "carColor": "Beyaz",
+      "carPrice": 385000,
+      "carText": "Sağ ön Çamurluk Sağ Arka Çamurluk Boyalı Kaput Değişti",
+      "id": 15
+    },
+    {
+      "categoryId": "Mercedes",
+      "carModel": "S klasse",
+      "carYear": "2018",
+      "carKm": 150000,
+      "carİmg": "https://i0.shbdn.com/photos/85/10/72/x5_8598510724b9.jpg",
+      "carColor": "Siyah",
+      "carPrice": 2500000,
+      "carText": "Hiçbir Sıkıntısı Yoktur Tank Gibi Araba",
+      "id": 16
+    },
+    {
+      "categoryId": "Porsche",
+      "carModel": "Panamera",
+      "carYear": "2023",
+      "carKm": 0,
+      "carİmg": "https://www.oneclickdrive.com/car-for-rent/slider-mobile/Porsche_Panamera_2023_18717_18717_11661669892-1_small.jpg?clr=3",
+      "carColor": "Beyaz",
+      "carPrice": 4000000,
+      "carText": "Fabrikadan Yeni Geldi",
+      "id": 17
+    }
+  ]
+}

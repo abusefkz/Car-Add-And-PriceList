@@ -1,0 +1,13 @@
+
+.carName{
+    color: black;
+    text-align: center;
+    background-color: rgba(211, 211, 211, 0.651);
+}
+.d-flex input{
+    border: 1px solid rgb(175, 118, 118);
+    outline: none;
+}
+.text{
+    background-color: rgba(81, 102, 38, 0.466);
+}
